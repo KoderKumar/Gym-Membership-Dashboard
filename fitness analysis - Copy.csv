@@ -1,0 +1,513 @@
+Date,Your name ,Your gender ,Age,importanceOfExcercise,levelOfFitness,excercisePerWeek,barriersForExcercise,formOfExcercise,doYouExcercise,preferredTime,excercisePerDayMin,balancedDietTF,preventingBalancedDiet,howHealthyAreYouScale,purchasedFitnessEquipment,excerciseGoal
+7/3/2019,Parkavi,Female,19-25,2,Good,Never,Busy,None,No,Morning,0,No,Cravings,3,No,Being Fit
+7/3/2019,Nithilaa,Female,15-18,4,Very good,Never,Exhausting,Swimming,Yes,Morning,0,No,Cravings,4,No,Relieve Stress
+7/3/2019,Karunya v,Female,15-18,3,Good,1-2,Unmotivated,Jogging,Yes,Morning,30,No,Cravings,4,Yes,Being Fit
+7/4/2019,Anusha ,Female,19-25,4,Good,3-4,Busy,Weightlifting,Yes,Evening,60,Yes,Cravings,4,No,Being Fit
+7/4/2019,Nikkitha,Female,40+,3,Unfit,Never,Unmotivated,None,No,Evening,0,Yes,Cravings,4,No,Being Fit
+7/4/2019,Girija,Female,40+,5,Average,3-4,Inconsistently,Yoga,Yes,Evening,60,No,Cravings,3,No,Be Flexible
+7/4/2019,Srinivasan,Male,15-18,3,Good,1-2,Reluctant,Jogging,Yes,Morning,30,No,Cravings,3,No,Be Flexible
+7/4/2019,Ranjani,Female,19-25,3,Unfit,Never,Reluctant,Jogging,Yes,Morning,0,No,Cravings,2,Yes,Being Fit
+7/4/2019,Bupesh R,Male,15-18,5,Unfit,3-4,Exhausting,Weightlifting,Yes,Evening,60,No,Cravings,2,No,Weightloss
+7/4/2019,Sudhan,Male,15-18,5,Very good,Everyday,Inconsistently,Weightlifting,Yes,Morning,60,No,Imbalanced,3,Yes,Being Fit
+7/4/2019,Revanth,Male,19-25,4,Very good,3-4,Busy,Jogging,Yes,Morning,60,Yes,Busy,4,Yes,Being Fit
+7/4/2019,Ashwin,Male,15-18,5,Unfit,3-4,Busy,Jogging,Yes,Morning,120,No,Cravings,4,Yes,Weightloss
+7/4/2019,Gurjyot Singh,Male,15-18,4,Unfit,Never,Unmotivated,None,No,Evening,0,No,Cravings,1,No,Weightloss
+7/4/2019,Harshita Jain ,Female,19-25,3,Average,1-2,Exhausting,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Hari Vishwa,Male,15-18,5,Average,1-2,Exhausting,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Weightloss
+7/4/2019,Harini sri,Female,15-18,3,Average,Everyday,Unmotivated,Yoga,Yes,Morning,30,No,Costly,3,No,Relieve Stress
+7/4/2019,Raghul Prashath.K.A,Male,15-18,3,Unfit,Never,Exhausting,None,No,Evening,0,No,Busy,2,No,Relieve Stress
+7/4/2019,RJ,Male,19-25,5,Good,1-2,Exhausting,Jogging,Yes,Morning,60,No,Cravings,3,No,Muscle Building
+7/4/2019,Pranesh s,Male,15-18,3,Unfit,Never,Exhausting,Jogging,Yes,Morning,60,No,Cravings,1,Yes,Weightloss
+7/4/2019,Prasath M,Male,19-25,3,Good,Everyday,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,Yes,Muscle Building
+7/4/2019,Mukund,Male,19-25,4,Average,2-3,Exhausting,Weightlifting,Yes,Morning,30,No,Costly,2,No,Being Fit
+7/4/2019,Baalavignesh,Male,40+,4,Good,Never,Exhausting,None,Yes,Evening,0,No,Busy,3,No,Being Fit
+7/4/2019,Venu,Male,15-18,3,Unfit,Never,Busy,None,Yes,Morning,0,Yes,Busy,2,Yes,Relieve Stress
+7/4/2019,Bhavesh V,Male,19-25,4,Average,1-2,Unmotivated,Jogging,Yes,Evening,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Aadhith,Male,15-18,3,Average,3-4,Reluctant,Walking,Yes,Evening,120,No,Busy,2,Yes,Relieve Stress
+7/4/2019,Yuktha,Female,19-25,2,Unfit,2-3,Unmotivated,Zumba,Yes,Evening,30,Yes,Cravings,3,Yes,Weightloss
+7/4/2019,Vignesh,Male,19-25,3,Good,1-2,Unmotivated,None,Yes,Morning,30,Yes,Busy,4,No,Relieve Stress
+7/4/2019,Lhavanya,Female,15-18,3,Average,1-2,Busy,Yoga,Yes,Morning,60,No,Cravings,4,No,Relieve Stress
+7/4/2019,Karthikessh,Male,15-18,4,Good,Everyday,Exhausting,Jogging,Yes,Evening,120,No,Costly,3,Yes,Being Fit
+7/4/2019,Aakash.V,Male,19-25,5,Very good,Everyday,Busy,Weightlifting,Yes,Evening,60,No,Costly,4,Yes,Muscle Building
+7/4/2019,Vandana,Female,19-25,4,Good,3-4,Busy,Yoga,Yes,Morning,30,Yes,Cravings,4,No,Be Flexible
+7/4/2019,Ananya H,Female,19-25,3,Average,1-2,Busy,Yoga,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Sagayamary,Female,15-18,3,Average,3-4,Exhausting,Weightlifting,Yes,Morning,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Navin,Male,19-25,4,Average,3-4,Exhausting,Yoga,Yes,Evening,120,No,Cravings,3,No,Weightloss
+7/4/2019,Ajay wk,Male,15-18,4,Unfit,1-2,Busy,Yoga,Yes,Morning,30,No,Imbalanced,3,Yes,Muscle Building
+7/4/2019,Pushkaran.P,Male,19-25,5,Good,Everyday,Inconsistently,Weightlifting,Yes,Morning,60,No,Costly,3,No,Being Fit
+7/4/2019,Swaathi Reddy,Female,19-25,3,Average,Everyday,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/4/2019,Ashwath P,Male,15-18,4,Good,2-3,Busy,Weightlifting,Yes,Morning,60,No,Cravings,3,No,Be Flexible
+7/4/2019,Hashini.S.S,Female,19-25,4,Good,Everyday,Busy,Weightlifting,Yes,Morning,60,No,Imbalanced,2,No,Being Fit
+7/4/2019,Yoganand,Male,15-18,5,Very good,5-6,Inconsistently,Weightlifting,Yes,Morning,60,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Mrudhula ,Female,19-25,4,Average,1-2,Unmotivated,Jogging,Yes,Afternoon,30,No,Cravings,4,No,Being Fit
+7/4/2019,Gowtham Prabhu ,Male,19-25,5,Average,Everyday,Busy,Weightlifting,Yes,Evening,120,No,Cravings,3,Yes,Being Fit
+7/4/2019,Ishwaria,Female,19-25,4,Unfit,1-2,Busy,Jogging,Yes,Evening,30,No,Cravings,2,Yes,Being Fit
+7/4/2019,Deepthi,Female,19-25,4,Average,1-2,Reluctant,Jogging,Yes,Evening,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Vaishnavi,Female,19-25,2,Good,Never,Reluctant,None,Yes,Morning,0,No,Cravings,3,Yes,Being Fit
+7/4/2019,Sibi s,Male,19-25,3,Perfect,2-3,Busy,Weightlifting,Yes,Morning,30,Yes,Busy,4,No,Being Fit
+7/4/2019,Mounica,Female,15-18,5,Average,2-3,Exhausting,Yoga,Yes,Morning,60,No,Busy,3,Yes,Weightloss
+7/4/2019,Mothil,Male,30-40,3,Average,Never,Exhausting,Weightlifting,Yes,Morning,0,No,Busy,3,No,Being Fit
+7/4/2019,Sreeja,Female,19-25,4,Average,1-2,Unmotivated,None,No,Evening,30,No,Busy,3,No,Weightloss
+7/4/2019,Snehaa,Female,19-25,4,Good,2-3,Busy,Yoga,Yes,Morning,30,No,Cravings,3,Yes,Be Flexible
+7/4/2019,Rubiha,Female,19-25,4,Good,1-2,Unmotivated,Zumba,Yes,Evening,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Prasanna S,Male,19-25,4,Average,5-6,Busy,Weightlifting,Yes,Evening,60,Yes,Cravings,2,No,Weightloss
+7/4/2019,Vinithasri.S,Female,15-18,4,Average,1-2,Busy,Yoga,Yes,Evening,30,No,Cravings,4,Yes,Be Flexible
+7/4/2019,Nandhana shri,Female,15-18,4,Good,2-3,Exhausting,Zumba,Yes,Evening,30,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Ray Elizabeth Dominic,Female,40+,2,Unfit,Never,Busy,None,No,Morning,0,No,Cravings,2,No,Being Fit
+7/4/2019,Srinivasan Ravindran,Male,19-25,5,Good,3-4,Inconsistently,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Sudarshan,Male,19-25,3,Good,3-4,Exhausting,Weightlifting,Yes,Morning,60,No,Busy,3,No,Being Fit
+7/4/2019,Varsha,Female,19-25,4,Good,5-6,Laziness,Walking,Yes,Morning,60,Yes,Cravings,4,No,Being Fit
+7/4/2019,Depika B,Female,19-25,3,Good,1-2,Unmotivated,Jogging,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/4/2019,Abinandha,Female,15-18,4,Average,2-3,Unmotivated,Jogging,Yes,Morning,30,No,Cravings,4,No,Be Flexible
+7/4/2019,Dharani,Male,19-25,4,Good,3-4,Busy,Jogging,Yes,Evening,120,No,Cravings,4,No,Being Fit
+7/4/2019,Sebastin,Male,26-30,2,Unfit,Never,Busy,None,No,Evening,0,Yes,Cravings,4,No,Muscle Building
+7/4/2019,Veerakumar,Male,19-25,5,Average,Never,Busy,None,No,Morning,0,No,Cravings,4,No,Weightloss
+7/4/2019,Raghul Prasanth,Male,19-25,5,Good,Everyday,Injured,Walking,Yes,Morning,120,Yes,Cravings,4,No,Being Fit
+7/4/2019,Subash,Male,19-25,5,Average,Never,Busy,Jogging,Yes,Morning,60,No,Cravings,4,No,Weightloss
+7/4/2019,Shiva,Female,26-30,3,Average,Never,Busy,None,No,Morning,0,No,Imbalanced,3,No,Relieve Stress
+7/4/2019,Pavithra ,Female,15-18,4,Good,Never,Exhausting,Jogging,Yes,Evening,0,No,Cravings,3,No,Be Flexible
+7/4/2019,Pavithra,Female,40+,4,Good,1-2,Exhausting,Weightlifting,Yes,Evening,60,No,Cravings,3,No,Being Fit
+7/4/2019,Mahalakshmi ,Female,19-25,5,Good,2-3,Unmotivated,Yoga,Yes,Morning,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Suraj,Male,19-25,5,Good,Everyday,Inconsistently,Walking,Yes,Morning,30,No,Imbalanced,4,No,Weightloss
+7/4/2019,Manjari,Female,19-25,3,Good,Never,Laziness,None,No,Morning,0,No,Cravings,4,No,Being Fit
+7/4/2019,Mahalakshmi,Female,40+,3,Good,1-2,Exhausting,Yoga,Yes,Morning,30,No,Cravings,3,Yes,Relieve Stress
+7/4/2019,Navaneethakrishnan ,Male,40+,4,Good,2-3,Busy,Walking,Yes,Evening,60,Yes,Costly,4,Yes,Relieve Stress
+7/4/2019,Mrs. Jagadeeswari Ravi,Female,40+,3,Average,1-2,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,Yes,Weightloss
+7/4/2019,Joy,Female,19-25,5,Average,Never,Reluctant,None,No,Morning,0,No,Busy,3,Yes,Being Fit
+7/4/2019,Suriya,Male,30-40,5,Average,1-2,Busy,Weightlifting,Yes,Evening,30,No,Cravings,3,Yes,Muscle Building
+7/4/2019,Somana Venkatesh ,Female,19-25,5,Average,2-3,Exhausting,Yoga,Yes,Morning,60,No,Cravings,3,No,Weightloss
+7/4/2019,Akila,Female,19-25,3,Average,5-6,Unmotivated,Yoga,Yes,Morning,0,No,Cravings,5,No,Be Flexible
+7/4/2019,S.Varsha,Female,40+,4,Good,Everyday,Inconsistently,Jogging,Yes,Evening,120,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Madhavan,Male,26-30,4,Average,3-4,Busy,Weightlifting,Yes,Morning,30,Yes,Cravings,3,Yes,Weightloss
+7/4/2019,Ragu,Male,19-25,2,Average,1-2,Busy,Weightlifting,Yes,Morning,30,No,Cravings,3,Yes,Muscle Building
+7/4/2019,Keerthi P,Female,40+,5,Unfit,1-2,Unmotivated,Weightlifting,Yes,Morning,60,No,Cravings,3,Yes,Weightloss
+7/4/2019,Rajesh C,Male,40+,5,Very good,3-4,Inconsistently,Weightlifting,Yes,Evening,120,Yes,Cravings,4,Yes,Weightloss
+7/4/2019,Praveen Krishnan,Male,30-40,5,Good,3-4,Busy,Weightlifting,Yes,Evening,60,Yes,Cravings,4,No,Being Fit
+7/4/2019,Suganya Prabhu,Female,19-25,3,Average,3-4,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/4/2019,vaishnavj,Female,30-40,3,Average,Never,Reluctant,None,No,Morning,0,No,Cravings,3,No,Weightloss
+7/4/2019,Vasundara ,Female,40+,4,Average,2-3,Busy,Jogging,Yes,Morning,30,No,Busy,3,No,Being Fit
+7/4/2019,Vidya ,Female,40+,5,Very good,1-2,Exhausting,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Weightloss
+7/4/2019,Sunderesan,Male,40+,5,Good,3-4,Inconsistently,Weightlifting,Yes,Morning,60,No,Busy,4,Yes,Being Fit
+7/4/2019,Anand,Male,40+,5,Good,2-3,Busy,Weightlifting,Yes,Morning,60,Yes,Busy,4,Yes,Relieve Stress
+7/4/2019,S Vijayakumar ,Female,40+,5,Average,3-4,Injured,Jogging,Yes,Morning,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,Atul,Male,19-25,4,Good,2-3,Exhausting,Yoga,Yes,Morning,30,No,Cravings,4,Yes,Being Fit
+7/4/2019,Bhargavi,Male,19-25,4,Average,2-3,Busy,Weightlifting,Yes,Evening,60,No,Busy,2,Yes,Being Fit
+7/4/2019,Thenmozhi,Female,19-25,4,Unfit,1-2,Busy,Swimming,Yes,Evening,0,No,Busy,3,Yes,Being Fit
+7/4/2019,Sujini Venugopalan,Female,40+,5,Average,Everyday,Exhausting,Weightlifting,Yes,Evening,120,No,Busy,3,Yes,Relieve Stress
+7/4/2019,Anil Z An-ny,Female,40+,5,Good,Never,Busy,None,No,Evening,0,Yes,Cravings,3,Yes,Weightloss
+7/4/2019,Kavipriya,Male,19-25,4,Very good,5-6,Inconsistently,Jogging,Yes,Morning,60,No,Imbalanced,3,Yes,Being Fit
+7/4/2019,Elango,Female,26-30,5,Good,3-4,Unmotivated,Yoga,Yes,Morning,30,No,Cravings,4,No,Being Fit
+7/4/2019,Deepan ,Male,15-18,5,Good,2-3,Busy,Weightlifting,Yes,Morning,60,No,Costly,4,No,Being Fit
+7/4/2019,Sabari Raaj,Male,19-25,5,Average,1-2,Busy,Weightlifting,Yes,Morning,60,No,Cravings,2,No,Being Fit
+7/4/2019,Geetha,Male,40+,3,Average,5-6,Busy,Weightlifting,Yes,Evening,60,No,Busy,4,Yes,Muscle Building
+7/4/2019,A Harish Kumar,Female,19-25,4,Good,Everyday,Inconsistently,Yoga,Yes,Morning,30,No,Busy,4,No,Be Flexible
+7/4/2019,Venkatraman,Male,15-18,5,Very good,2-3,Busy,Weightlifting,Yes,Evening,60,No,Cravings,4,Yes,Muscle Building
+7/4/2019,Surya Subburam,Male,19-25,5,Very good,Everyday,Inconsistently,Walking,Yes,Morning,120,No,Cravings,4,No,Being Fit
+7/4/2019,Mystic,Male,15-18,4,Good,3-4,Exhausting,Jogging,Yes,Evening,60,Yes,Cravings,4,No,Being Fit
+7/4/2019,Saroja K K,Female,19-25,4,Average,Everyday,Unmotivated,Yoga,Yes,Morning,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,S muruganandam ,Female,40+,3,Good,1-2,Reluctant,Yoga,Yes,Morning,30,No,Imbalanced,3,Yes,Being Fit
+7/4/2019,Raghul S,Male,15-18,5,Good,Everyday,Inconsistently,Jogging,Yes,Morning,30,No,Busy,3,Yes,Being Fit
+7/4/2019,B NAMRATHA SHREE,Male,15-18,3,Good,1-2,Busy,Jogging,Yes,Morning,60,No,Cravings,4,No,Being Fit
+7/4/2019,AR. Subbharaaman,Female,40+,4,Average,1-2,Exhausting,Weightlifting,Yes,Morning,60,No,Cravings,4,Yes,Weightloss
+7/4/2019,Kannan,Male,19-25,5,Good,1-2,Busy,Jogging,Yes,Morning,60,No,Cravings,3,No,Being Fit
+7/4/2019,RM.Sivanandham,Male,15-18,3,Average,1-2,Exhausting,Weightlifting,Yes,Morning,60,No,Busy,3,No,Being Fit
+7/4/2019,Sivaram,Male,15-18,2,Average,Never,Reluctant,Weightlifting,Yes,Evening,30,No,Imbalanced,2,No,Muscle Building
+7/4/2019,Abhirami sotta,Male,15-18,3,Average,Never,Reluctant,None,No,Evening,0,No,Cravings,3,No,Being Fit
+7/4/2019,Rethik Nirmal.V,Female,15-18,4,Average,Never,Unmotivated,None,Yes,Evening,0,Yes,Cravings,3,Yes,Being Fit
+7/4/2019,Sai Karthik R,Male,15-18,4,Good,Everyday,Inconsistently,Weightlifting,Yes,Evening,120,No,Cravings,5,Yes,Being Fit
+7/4/2019,Kiran G,Male,19-25,4,Good,1-2,Busy,Walking,Yes,Afternoon,120,No,Cravings,4,No,Being Fit
+7/4/2019,premeetha,Male,15-18,3,Average,Never,Injured,None,No,Morning,0,No,Cravings,3,No,Being Fit
+7/4/2019,Jaswanth Krishna,Female,19-25,4,Average,1-2,Unmotivated,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Dinakar,Male,19-25,4,Perfect,Everyday,Busy,Weightlifting,Yes,Evening,30,No,Imbalanced,4,Yes,Being Fit
+7/4/2019,Sobia,Male,19-25,4,Perfect,5-6,Busy,Weightlifting,Yes,Morning,120,No,Cravings,3,Yes,Muscle Building
+7/4/2019,Shubh,Female,19-25,3,Average,1-2,Exhausting,Swimming,Yes,Evening,30,Yes,Imbalanced,3,Yes,Being Fit
+7/4/2019,Malavika V Deepak,Female,15-18,3,Average,5-6,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/4/2019,Janani,Male,15-18,1,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,J ALAGESWARAN,Female,15-18,5,Good,1-2,Busy,Jogging,Yes,Evening,120,No,Cravings,3,No,Relieve Stress
+7/4/2019,Karthik,Female,19-25,5,Unfit,Never,Unmotivated,None,No,Morning,0,No,Cravings,1,Yes,Weightloss
+7/4/2019,Deeptha N B,Male,19-25,5,Average,Everyday,Busy,Jogging,Yes,Evening,30,No,Busy,3,No,Relieve Stress
+7/4/2019,Shama,Male,15-18,5,Perfect,Everyday,Inconsistently,Swimming,Yes,Evening,180,Yes,Busy,5,Yes,Being Fit
+7/4/2019,Bhavadharani Balaji,Female,19-25,5,Good,Everyday,Inconsistently,Weightlifting,Yes,Evening,120,Yes,Cravings,3,Yes,Be Flexible
+7/4/2019,Afshiyaa Ameen,Female,15-18,3,Good,Everyday,Busy,Zumba,Yes,Morning,120,No,Busy,3,No,Muscle Building
+7/4/2019,Balaganesh S,Female,15-18,4,Good,Everyday,Exhausting,Jogging,Yes,Evening,30,No,Cravings,5,No,Weightloss
+7/4/2019,Reeja,Female,19-25,3,Good,Everyday,Laziness,Jogging,Yes,Evening,30,No,Imbalanced,3,No,Weightloss
+7/4/2019,Kalavathi,Male,30-40,5,Good,Everyday,Inconsistently,Yoga,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/4/2019,Rajapriya,Female,15-18,5,Average,Everyday,Inconsistently,Yoga,Yes,Morning,30,Yes,Cravings,3,No,Being Fit
+7/4/2019,Shwetha,Female,40+,2,Unfit,Never,Reluctant,None,No,Morning,0,No,Cravings,1,No,Being Fit
+7/4/2019,Naazneen,Female,15-18,2,Unfit,1-2,Reluctant,None,No,Evening,0,No,Cravings,1,No,Being Fit
+7/4/2019,Janet,Female,19-25,4,Average,1-2,Busy,Yoga,Yes,Evening,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,Sreelatha R,Female,15-18,3,Average,Never,Unmotivated,None,No,Evening,0,Yes,Cravings,3,Yes,Being Fit
+7/4/2019,Rajesh ,Female,30-40,2,Good,1-2,Busy,Jogging,Yes,Evening,30,No,Cravings,4,No,Being Fit
+7/4/2019,GOWTHAM,Female,40+,3,Good,2-3,Reluctant,Jogging,Yes,Morning,30,No,Busy,3,No,Weightloss
+7/4/2019,G Saravana Perumal,Male,19-25,5,Good,1-2,Unmotivated,Jogging,Yes,Evening,30,Yes,Cravings,4,Yes,Be Flexible
+7/4/2019,Geetha Saravanan,Male,40+,3,Average,1-2,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Sindhupriya,Male,40+,5,Average,1-2,Injured,Jogging,Yes,Morning,30,Yes,Cravings,3,Yes,Relieve Stress
+7/4/2019,Ravi V,Female,19-25,2,Good,Never,Busy,None,No,Evening,0,No,Cravings,3,Yes,Weightloss
+7/4/2019,R. B. Ranjith ,Female,40+,4,Good,1-2,Busy,Weightlifting,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/4/2019,Arjun,Male,30-40,5,Very good,5-6,Inconsistently,Yoga,Yes,Morning,120,Yes,Busy,5,No,Being Fit
+7/4/2019,Mahesh ,Male,26-30,5,Good,5-6,Inconsistently,Weightlifting,Yes,Morning,60,Yes,Cravings,5,Yes,Being Fit
+7/4/2019,Bharathi ,Male,40+,3,Average,1-2,Unmotivated,Weightlifting,Yes,Morning,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Shreenidhi,Male,15-18,4,Average,2-3,Unmotivated,Jogging,Yes,Evening,60,No,Cravings,3,No,Being Fit
+7/4/2019,Udhayageetha ,Female,19-25,5,Average,Never,Laziness,None,No,Evening,0,No,Cravings,3,Yes,Muscle Building
+7/4/2019,Saravanan.S,Female,40+,4,Good,Never,Laziness,Jogging,No,Morning,0,No,Cravings,4,No,Be Flexible
+7/4/2019,Vivek,Female,40+,5,Average,1-2,Unmotivated,Weightlifting,Yes,Evening,60,No,Imbalanced,2,Yes,Weightloss
+7/4/2019,P.PANDIARAJAN,Male,40+,5,Good,1-2,Busy,Jogging,Yes,Morning,30,No,Busy,3,Yes,Being Fit
+7/4/2019,Pranika ,Male,30-40,4,Average,1-2,Exhausting,Swimming,Yes,Evening,60,No,Cravings,3,No,Be Flexible
+7/4/2019,Praghadeesh,Male,15-18,3,Average,Never,Inconsistently,Jogging,Yes,Morning,60,No,Busy,5,No,Weightloss
+7/4/2019,Karthik R,Female,19-25,4,Very good,2-3,Unmotivated,Swimming,Yes,Evening,30,Yes,Imbalanced,3,No,Be Flexible
+7/4/2019,Nidheekshaa,Male,19-25,5,Very good,1-2,Busy,Yoga,Yes,Evening,30,No,Busy,4,No,Muscle Building
+7/4/2019,Naman,Male,15-18,5,Good,1-2,Exhausting,Weightlifting,Yes,Morning,30,No,Cravings,5,No,Weightloss
+7/4/2019,Dharanidharan M,Male,15-18,5,Very good,Everyday,Inconsistently,Jogging,Yes,Evening,120,No,Cravings,4,Yes,Being Fit
+7/4/2019,Sandeep,Female,19-25,5,Very good,3-4,Unmotivated,Jogging,Yes,Afternoon,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Krishnasamy,Male,19-25,4,Average,3-4,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/4/2019,Madhi,Male,19-25,5,Very good,5-6,Inconsistently,Swimming,Yes,Morning,120,Yes,Busy,4,No,Relieve Stress
+7/4/2019,Parthasarathy Kannan,Male,19-25,5,Good,2-3,Busy,Jogging,Yes,Morning,30,No,Cravings,4,Yes,Relieve Stress
+7/4/2019,Siddharth,Male,15-18,5,Very good,1-2,Busy,Swimming,Yes,Evening,60,No,Busy,4,No,Being Fit
+7/4/2019,Aswin Chander ,Male,40+,4,Good,1-2,Exhausting,Zumba,Yes,Evening,30,Yes,Cravings,4,No,Being Fit
+7/4/2019,Mrs.Sreedaya Sukumar,Male,19-25,5,Good,5-6,Inconsistently,Yoga,Yes,Morning,60,No,Cravings,4,Yes,Weightloss
+7/4/2019,Samyuktha.S,Male,19-25,4,Very good,3-4,Injured,Weightlifting,Yes,Evening,60,Yes,Cravings,4,Yes,Weightloss
+7/4/2019,Rhea,Male,40+,4,Good,3-4,Injured,Jogging,Yes,Morning,60,No,Cravings,3,No,Relieve Stress
+7/4/2019,Cutie,Female,15-18,4,Average,1-2,Busy,Jogging,Yes,Evening,60,No,Cravings,3,No,Muscle Building
+7/4/2019,Sanjita,Female,19-25,2,Unfit,Never,Busy,None,No,Morning,0,No,Busy,3,No,Being Fit
+7/4/2019,Manoji K,Female,15-18,4,Good,3-4,Busy,Weightlifting,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/4/2019,Shreya ,Female,15-18,2,Average,Never,Busy,None,No,Evening,0,Yes,Cravings,3,No,Being Fit
+7/4/2019,Nikila,Female,30-40,5,Average,Never,Busy,None,No,Morning,0,No,Cravings,3,No,Being Fit
+7/4/2019,Raja MLK,Female,15-18,5,Unfit,Never,Busy,None,No,Morning,0,No,Cravings,1,Yes,Weightloss
+7/4/2019,Niveditha,Female,15-18,4,Very good,2-3,Exhausting,Weightlifting,Yes,Evening,30,No,Cravings,4,Yes,Being Fit
+7/4/2019,Srinath.S,Female,40+,4,Good,1-2,Reluctant,Zumba,Yes,Evening,60,No,Cravings,4,Yes,Weightloss
+7/4/2019,Dushyanth,Male,19-25,5,Perfect,Everyday,Busy,Yoga,Yes,Morning,60,Yes,Cravings,5,Yes,Relieve Stress
+7/4/2019,Thayagaraja Bagvadhar,Female,19-25,4,Average,1-2,Busy,Yoga,Yes,Morning,60,No,Cravings,3,No,Relieve Stress
+7/4/2019,RIYAZ,Male,40+,5,Perfect,Everyday,Inconsistently,Jogging,Yes,Evening,60,Yes,Imbalanced,5,No,Relieve Stress
+7/4/2019,Mega,Male,40+,5,Very good,5-6,Busy,Weightlifting,Yes,Morning,60,No,Cravings,4,No,Being Fit
+7/4/2019,Sharvatha,Male,15-18,5,Perfect,Everyday,Inconsistently,Swimming,Yes,Morning,180,Yes,Busy,5,Yes,Being Fit
+7/4/2019,Manjusha jitesh Kumar,Male,19-25,2,Unfit,Never,Reluctant,None,No,Morning,0,No,Cravings,3,No,Being Fit
+7/4/2019,Ramya Rangan ,Female,15-18,1,Unfit,Never,Laziness,None,No,Morning,0,No,Cravings,2,No,Being Fit
+7/4/2019,Krishna,Female,30-40,3,Good,2-3,Unmotivated,Jogging,Yes,Evening,60,No,Busy,3,No,Weightloss
+7/4/2019,sangeetha,Female,40+,4,Average,Never,Busy,Jogging,No,Morning,0,No,Busy,2,No,Relieve Stress
+7/4/2019,Subhasri Manigandan ,Female,19-25,5,Very good,5-6,Exhausting,Walking,Yes,Evening,60,No,Busy,4,Yes,Being Fit
+7/4/2019,Sudarsan ,Male,15-18,5,Good,5-6,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/4/2019,Wazza,Female,15-18,4,Average,Everyday,Busy,Weightlifting,Yes,Morning,60,No,Imbalanced,3,Yes,Weightloss
+7/4/2019,Divya,Female,19-25,3,Good,1-2,Injured,Jogging,No,Morning,30,No,Busy,3,No,Weightloss
+7/4/2019,Boojithkrishna ,Male,19-25,5,Average,Never,Unmotivated,Weightlifting,Yes,Morning,120,No,Cravings,3,Yes,Being Fit
+7/4/2019,Ganga,Male,19-25,5,Good,3-4,Injured,Walking,Yes,Morning,120,No,Costly,3,No,Relieve Stress
+7/4/2019,Arun,Female,15-18,4,Good,2-3,Exhausting,Weightlifting,Yes,Evening,60,No,Cravings,4,Yes,Be Flexible
+7/4/2019,Diwakar Varatharajan,Male,19-25,4,Good,1-2,Unmotivated,Jogging,Yes,Morning,30,No,Cravings,4,No,Being Fit
+7/4/2019,Gautham,Female,30-40,4,Good,1-2,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,Anand ,Male,19-25,3,Average,1-2,Reluctant,Walking,Yes,Evening,120,No,Costly,3,No,Being Fit
+7/4/2019,V shankar,Male,15-18,5,Unfit,2-3,Busy,Weightlifting,Yes,Morning,60,No,Busy,1,No,Being Fit
+7/4/2019,Vasu Thirumalai ,Male,40+,3,Good,Never,Reluctant,None,Yes,Morning,0,No,Imbalanced,3,No,Being Fit
+7/4/2019,K V PRAGATHI ,Male,40+,5,Good,3-4,Busy,Weightlifting,Yes,Morning,60,No,Busy,3,Yes,Being Fit
+7/4/2019,Vinodh.S,Male,40+,3,Average,Never,Injured,Yoga,Yes,Morning,30,Yes,Busy,4,Yes,Be Flexible
+7/4/2019,Joshika S,Male,15-18,5,Good,3-4,Busy,Weightlifting,Yes,Evening,60,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Sanjay Rathinavel,Female,30-40,3,Average,Never,Reluctant,Jogging,Yes,Evening,0,No,Cravings,3,No,Weightloss
+7/4/2019,Divya Rammohan,Male,15-18,4,Average,1-2,Unmotivated,Walking,Yes,Morning,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,Athira,Male,15-18,4,Very good,2-3,Unmotivated,Weightlifting,Yes,Evening,30,No,Cravings,3,No,Weightloss
+7/4/2019,Roopa Vinod,Male,26-30,5,Good,5-6,Injured,Weightlifting,Yes,Evening,120,No,Imbalanced,3,No,Being Fit
+7/4/2019,R. Soujanyaa,Female,19-25,5,Good,5-6,Busy,Weightlifting,Yes,Afternoon,60,No,Cravings,3,No,Being Fit
+7/4/2019,Pooja,Female,40+,3,Very good,1-2,Busy,Jogging,Yes,Morning,30,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Koushi,Female,19-25,4,Average,3-4,Exhausting,Yoga,Yes,Morning,120,Yes,Cravings,3,No,Weightloss
+7/4/2019,Shobana Natarajan,Female,19-25,4,Unfit,2-3,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,Yes,Be Flexible
+7/4/2019,Rajesh,Female,15-18,3,Average,2-3,Exhausting,Weightlifting,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Elakya,Female,40+,4,Good,2-3,Busy,Yoga,Yes,Morning,30,No,Costly,4,No,Being Fit
+7/4/2019,Jothiraja.D,Female,30-40,4,Average,3-4,Unmotivated,Yoga,Yes,Morning,60,No,Cravings,2,Yes,Weightloss
+7/4/2019,Umaiyal,Male,19-25,5,Good,1-2,Unmotivated,Jogging,Yes,Morning,30,No,Busy,4,No,Relieve Stress
+7/4/2019,Subha,Female,30-40,3,Average,Never,Unmotivated,None,No,Morning,0,No,Cravings,2,No,Being Fit
+7/4/2019,Kausiga,Male,19-25,3,Average,Never,Exhausting,None,No,Morning,0,No,Busy,3,No,Relieve Stress
+7/4/2019,Karthika p,Female,30-40,3,Average,1-2,Busy,None,Yes,Evening,0,No,Busy,2,Yes,Being Fit
+7/4/2019,Swarna,Male,15-18,5,Good,5-6,Inconsistently,Weightlifting,Yes,Morning,60,Yes,Cravings,5,Yes,Being Fit
+7/4/2019,Chandrabose,Female,19-25,5,Good,1-2,Busy,Jogging,Yes,Morning,30,No,Busy,4,No,Be Flexible
+7/4/2019,Sona,Female,19-25,2,Unfit,Never,Unmotivated,None,No,Morning,0,No,Imbalanced,3,No,Weightloss
+7/4/2019,Anisha,Female,15-18,5,Good,Never,Exhausting,Zumba,No,Evening,0,No,Busy,1,No,Relieve Stress
+7/4/2019,Devika,Female,19-25,3,Good,1-2,Busy,Jogging,Yes,Morning,30,No,Busy,4,No,Weightloss
+7/4/2019,Lokesh Karthikeyan,Male,15-18,4,Average,Never,Busy,Swimming,No,Evening,60,No,Busy,3,No,Being Fit
+7/4/2019,Nitisha,Female,15-18,4,Good,2-3,Inconsistently,Zumba,Yes,Morning,60,No,Cravings,3,No,Relieve Stress
+7/4/2019,Nandhini Rajkumar,Female,19-25,5,Average,Never,Unmotivated,None,No,Evening,0,No,Imbalanced,3,No,Relieve Stress
+7/4/2019,Shiny ,Female,19-25,4,Average,Everyday,Unmotivated,Weightlifting,Yes,Morning,30,No,Cravings,4,Yes,Being Fit
+7/4/2019,Madhu Nisha N,Male,19-25,4,Perfect,3-4,Busy,Weightlifting,Yes,Evening,60,No,Busy,5,Yes,Being Fit
+7/4/2019,Aishwarya vasukannakumar,Female,15-18,4,Average,1-2,Exhausting,Jogging,Yes,Morning,60,No,Cravings,2,No,Relieve Stress
+7/4/2019,Pranav,Female,19-25,5,Good,Everyday,Inconsistently,Weightlifting,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/4/2019,Elakkiya,Female,19-25,5,Good,Everyday,Exhausting,Jogging,Yes,Morning,60,No,Busy,3,Yes,Being Fit
+7/4/2019,Prethi,Female,15-18,4,Good,2-3,Busy,Weightlifting,Yes,Evening,120,No,Cravings,3,No,Weightloss
+7/4/2019,Gvv,Female,19-25,5,Perfect,Everyday,Busy,Weightlifting,Yes,Evening,60,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,SANGAMITHRA,Male,19-25,3,Very good,2-3,Busy,Jogging,Yes,Evening,60,Yes,Cravings,4,No,Muscle Building
+7/4/2019,Sneha,Female,15-18,3,Average,1-2,Busy,Jogging,Yes,Morning,0,No,Busy,3,No,Being Fit
+7/4/2019,Pavan Preetham ,Female,15-18,4,Good,1-2,Busy,Jogging,Yes,Evening,30,No,Cravings,4,Yes,Being Fit
+7/4/2019,Asmitaa UR,Male,15-18,3,Perfect,Never,Busy,Weightlifting,Yes,Morning,60,No,Cravings,5,No,Being Fit
+7/4/2019,Abilash Balan,Female,15-18,4,Good,3-4,Busy,Yoga,Yes,Morning,60,No,Cravings,2,No,Weightloss
+7/4/2019,Shakthi abirami ,Female,19-25,4,Good,1-2,Busy,Jogging,Yes,Evening,30,No,Imbalanced,4,Yes,Relieve Stress
+7/4/2019,Nethraa,Male,19-25,3,Good,1-2,Busy,Jogging,Yes,Evening,60,No,Cravings,3,Yes,Relieve Stress
+7/4/2019,Samyuktaa Balaji,Female,30-40,4,Good,1-2,Busy,Jogging,Yes,Evening,60,Yes,Cravings,3,No,Being Fit
+7/4/2019,Harshi,Male,19-25,5,Average,2-3,Unmotivated,Weightlifting,Yes,Morning,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Rahul S,Female,15-18,4,Good,2-3,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Asmi,Female,19-25,3,Good,Never,Busy,None,No,Evening,0,No,Cravings,3,Yes,Being Fit
+7/4/2019,M.Shruthi,Female,15-18,5,Good,3-4,Exhausting,Jogging,Yes,Evening,30,No,Busy,3,No,Being Fit
+7/4/2019,Hemadharshini.S,Female,19-25,3,Average,Never,Busy,None,No,Morning,60,No,Busy,3,No,Relieve Stress
+7/4/2019,Umarani,Male,15-18,5,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Relieve Stress
+7/4/2019,Sreenila,Female,15-18,5,Good,Everyday,Inconsistently,Yoga,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/4/2019,Nikhita,Female,19-25,2,Average,Never,Busy,Jogging,No,Evening,0,Yes,Cravings,3,No,Being Fit
+7/4/2019,Moukthika,Female,40+,4,Average,Never,Reluctant,None,No,Morning,0,No,Imbalanced,3,No,Being Fit
+7/4/2019,Sakthi,Female,19-25,5,Good,Everyday,Busy,Jogging,Yes,Morning,30,No,Busy,3,No,Relieve Stress
+7/4/2019,Prakash,Female,15-18,3,Average,3-4,Busy,Yoga,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/4/2019,Dev,Female,15-18,3,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Imbalanced,3,No,Weightloss
+7/4/2019,Simi jithosh,Female,15-18,5,Very good,2-3,Busy,Yoga,Yes,Morning,60,No,Imbalanced,4,No,Weightloss
+7/4/2019,Savithri KP,Male,19-25,3,Average,1-2,Busy,Jogging,Yes,Evening,30,No,Imbalanced,3,No,Relieve Stress
+7/4/2019,Arjun A,Male,19-25,3,Good,Never,Reluctant,None,No,Evening,0,No,Cravings,3,No,Being Fit
+7/4/2019,Geethanjali,Female,30-40,3,Average,Never,Unmotivated,Zumba,Yes,Morning,0,Yes,Cravings,4,Yes,Being Fit
+7/4/2019,Sri Balaji,Female,40+,3,Average,1-2,Busy,Jogging,Yes,Morning,60,Yes,Busy,3,No,Relieve Stress
+7/4/2019,Harivignesh,Female,15-18,5,Average,1-2,Busy,Yoga,Yes,Evening,60,No,Costly,3,Yes,Relieve Stress
+7/4/2019,Krsna,Male,15-18,2,Average,Never,Exhausting,Swimming,Yes,Afternoon,30,No,Cravings,4,No,Being Fit
+7/4/2019,Kailash,Female,19-25,4,Good,3-4,Exhausting,Weightlifting,Yes,Morning,60,No,Cravings,3,No,Weightloss
+7/4/2019,Divya Sivaraman ,Male,19-25,4,Unfit,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Felix,Male,19-25,4,Average,Never,Busy,Yoga,Yes,Morning,60,No,Busy,2,No,Being Fit
+7/4/2019,Saranyan,Male,19-25,2,Unfit,Never,Busy,None,No,Evening,30,No,Imbalanced,2,No,Being Fit
+7/4/2019,Sreenu,Male,15-18,3,Very good,Everyday,Inconsistently,Weightlifting,Yes,Evening,60,Yes,Imbalanced,3,No,Muscle Building
+7/4/2019,Shrinidhi ,Female,19-25,4,Good,2-3,Busy,Jogging,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/4/2019,Tejas E,Male,19-25,4,Very good,3-4,Inconsistently,Walking,Yes,Evening,60,Yes,Busy,4,No,Being Fit
+7/4/2019,Swetha. S,Male,30-40,2,Unfit,Never,Injured,Jogging,Yes,Evening,30,No,Busy,3,No,Be Flexible
+7/4/2019,Naveen,Female,19-25,2,Very good,Never,Busy,Jogging,Yes,Evening,30,No,Cravings,4,No,Weightloss
+7/4/2019,Alagu Prakalya,Female,15-18,3,Good,5-6,Busy,Jogging,Yes,Evening,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Pradeepa,Male,15-18,3,Average,1-2,Exhausting,Weightlifting,Yes,Morning,60,Yes,Cravings,3,No,Being Fit
+7/4/2019,Akshaya L,Female,15-18,3,Good,2-3,Exhausting,Weightlifting,Yes,Evening,30,No,Imbalanced,3,Yes,Being Fit
+7/4/2019,shruti,Male,15-18,1,Average,Never,Reluctant,None,No,Evening,0,No,Busy,3,Yes,Being Fit
+7/4/2019,Siva,Female,19-25,4,Average,5-6,Unmotivated,Weightlifting,Yes,Morning,120,No,Cravings,4,No,Being Fit
+7/4/2019,Sanjana,Female,15-18,5,Perfect,Everyday,Inconsistently,Jogging,Yes,Evening,30,No,Cravings,4,No,Being Fit
+7/4/2019,dwaraka,Female,15-18,3,Average,1-2,Unmotivated,Jogging,Yes,Evening,60,No,Busy,3,Yes,Weightloss
+7/4/2019,D Lavanya ,Female,19-25,2,Average,Never,Exhausting,None,No,Morning,0,No,Cravings,3,No,Relieve Stress
+7/4/2019,Sreenidhi,Male,19-25,3,Average,2-3,Unmotivated,Jogging,Yes,Morning,30,No,Cravings,4,No,Muscle Building
+7/4/2019,Kaushik Raj,Female,15-18,1,Average,Never,Exhausting,None,No,Evening,0,No,Cravings,3,No,Being Fit
+7/4/2019,Valliammai C,Female,15-18,2,Average,3-4,Unmotivated,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/4/2019,Murali,Female,15-18,5,Good,Everyday,Exhausting,Jogging,Yes,Morning,30,No,Imbalanced,3,No,Being Fit
+7/4/2019,Prabhodhini,Female,19-25,3,Average,3-4,Busy,Weightlifting,Yes,Evening,60,No,Cravings,2,No,Being Fit
+7/4/2019,Reena,Male,19-25,1,Perfect,1-2,Unmotivated,Weightlifting,Yes,Evening,120,No,Cravings,5,Yes,Relieve Stress
+7/4/2019,M Ponni,Female,40+,4,Good,2-3,Busy,Weightlifting,Yes,Evening,30,No,Cravings,4,No,Weightloss
+7/4/2019,Princy K,Male,15-18,5,Average,1-2,Busy,Jogging,Yes,Morning,60,No,Busy,3,No,Being Fit
+7/4/2019,Naveenkumar.P,Female,15-18,3,Average,1-2,Exhausting,Jogging,Yes,Evening,30,No,Busy,3,Yes,Relieve Stress
+7/4/2019,Ashvika,Female,19-25,3,Good,Never,Busy,Jogging,No,Morning,0,No,Cravings,3,No,Being Fit
+7/4/2019,Prasanth,Female,30-40,3,Very good,Never,Reluctant,Jogging,Yes,Morning,30,No,Cravings,5,No,Being Fit
+7/4/2019,Praveen S,Female,15-18,5,Average,Never,Busy,None,No,Morning,0,Yes,Imbalanced,3,No,Being Fit
+7/4/2019,J prabhu,Male,15-18,5,Very good,Everyday,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,No,Being Fit
+7/4/2019,Neethu,Female,30-40,4,Good,5-6,Busy,Yoga,Yes,Morning,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Suchitra Menon ,Male,15-18,3,Good,Never,Exhausting,None,No,Morning,0,No,Cravings,4,No,Being Fit
+7/4/2019,Nisha,Male,30-40,3,Average,Never,Exhausting,None,Yes,Morning,30,No,Cravings,3,Yes,Being Fit
+7/4/2019,Vishnu,Male,30-40,3,Unfit,Never,Busy,None,No,Morning,0,No,Busy,2,No,Muscle Building
+7/4/2019,Sonali Naresh,Female,19-25,5,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Busy,3,Yes,Being Fit
+7/4/2019,No name,Female,30-40,5,Good,1-2,Unmotivated,Yoga,Yes,Morning,30,No,Cravings,3,Yes,Weightloss
+7/4/2019,Babu,Female,30-40,2,Average,Never,Busy,None,No,Evening,0,No,Busy,2,No,Be Flexible
+7/4/2019,Manoranjani. L. N,Female,30-40,5,Average,Everyday,Exhausting,Yoga,Yes,Morning,60,No,Cravings,3,No,Relieve Stress
+7/4/2019,Saikrishnan ,Male,19-25,3,Unfit,2-3,Busy,Jogging,Yes,Morning,30,No,Busy,3,No,Be Flexible
+7/4/2019,Mridula J,Female,15-18,4,Average,2-3,Busy,Jogging,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/4/2019,Brijitha,Female,40+,5,Very good,Everyday,Exhausting,Jogging,Yes,Morning,60,No,Cravings,4,No,Be Flexible
+7/4/2019,Naheeda ,Male,15-18,3,Unfit,Never,Busy,Jogging,No,Morning,0,Yes,Busy,3,Yes,Being Fit
+7/4/2019,Subhashini ,Female,15-18,5,Average,Never,Reluctant,None,Yes,Morning,0,No,Cravings,3,No,Relieve Stress
+7/4/2019,A. SIMAN RAAHEEL,Male,26-30,5,Perfect,Everyday,Busy,Swimming,Yes,Morning,180,No,Cravings,5,Yes,Being Fit
+7/4/2019,Pushkala P,Female,30-40,4,Very good,5-6,Exhausting,Jogging,Yes,Evening,30,No,Cravings,4,No,Weightloss
+7/4/2019,Dhivya,Female,30-40,5,Unfit,Never,Busy,Yoga,No,Morning,0,No,Busy,1,No,Weightloss
+7/4/2019,Thejas,Female,30-40,3,Average,2-3,Busy,Jogging,Yes,Evening,120,No,Costly,3,No,Being Fit
+7/5/2019,Neha,Female,15-18,5,Average,1-2,Busy,Jogging,Yes,Evening,30,No,Busy,3,No,Being Fit
+7/5/2019,Gowrishankar,Female,15-18,4,Good,2-3,Exhausting,Yoga,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/5/2019,Jamal Syed,Female,40+,3,Good,Never,Exhausting,None,No,Morning,0,No,Busy,3,No,Being Fit
+7/5/2019,Mithra V ,Female,15-18,2,Very good,Never,Reluctant,None,No,Morning,0,Yes,Cravings,2,No,Weightloss
+7/5/2019,K.Abinaya,Female,15-18,3,Good,Never,Reluctant,None,No,Morning,0,Yes,Cravings,4,No,Being Fit
+7/5/2019,R. Haritha Raj,Male,15-18,4,Unfit,1-2,Unmotivated,Weightlifting,Yes,Evening,60,No,Cravings,2,No,Weightloss
+7/5/2019,Rohit,Female,19-25,3,Good,1-2,Busy,Yoga,Yes,Afternoon,60,No,Cravings,3,Yes,Be Flexible
+7/5/2019,Prajwal Singh Gautam,Male,19-25,4,Average,1-2,Busy,Walking,Yes,Evening,60,No,Cravings,3,No,Being Fit
+7/5/2019,Aswath Vinayak K,Male,15-18,4,Good,3-4,Unmotivated,Swimming,Yes,Morning,120,Yes,Imbalanced,4,No,Being Fit
+7/5/2019,Shubh Madhavan,Female,15-18,4,Average,Never,Busy,None,No,Morning,0,No,Cravings,3,No,Weightloss
+7/5/2019,Ambiga,Female,15-18,4,Very good,1-2,Busy,Yoga,Yes,Evening,30,No,Cravings,3,No,Being Fit
+7/5/2019,Subhabali,Female,19-25,4,Average,1-2,Unmotivated,Weightlifting,Yes,Evening,60,No,Cravings,2,No,Relieve Stress
+7/5/2019,MANASA,Male,15-18,4,Good,3-4,Injured,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/5/2019,Kandavel,Male,19-25,5,Very good,5-6,Inconsistently,Swimming,Yes,Evening,60,No,Busy,4,No,Being Fit
+7/5/2019,Sudharsan K,Male,19-25,5,Good,5-6,Busy,Weightlifting,Yes,Evening,120,No,Cravings,3,No,Being Fit
+7/5/2019,Aaron Abraham Mathew,Male,40+,4,Good,3-4,Exhausting,Weightlifting,Yes,Afternoon,60,No,Cravings,3,Yes,Weightloss
+7/5/2019,V.M.Yashaswini ,Female,40+,1,Perfect,Never,Busy,None,Yes,Morning,0,Yes,Cravings,5,No,Being Fit
+7/5/2019,Nayana,Female,19-25,5,Good,5-6,Inconsistently,Yoga,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/5/2019,Abhay Krishna,Female,19-25,3,Very good,1-2,Busy,Jogging,Yes,Morning,30,Yes,Cravings,3,No,Being Fit
+7/5/2019,Smrithi,Male,19-25,5,Perfect,5-6,Busy,Weightlifting,Yes,Afternoon,60,No,Cravings,4,No,Being Fit
+7/5/2019,Subodh,Male,19-25,5,Average,3-4,Laziness,Weightlifting,Yes,Morning,60,Yes,Busy,3,Yes,Being Fit
+7/5/2019,Amruth,Female,15-18,3,Good,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Muscle Building
+7/5/2019,Dhanushri,Male,15-18,4,Good,3-4,Exhausting,Weightlifting,Yes,Evening,120,Yes,Cravings,3,Yes,Relieve Stress
+7/5/2019,Varsha ,Female,19-25,4,Good,3-4,Exhausting,Zumba,Yes,Evening,30,No,Imbalanced,3,No,Be Flexible
+7/5/2019,Samyuktha,Female,15-18,4,Average,2-3,Busy,Zumba,Yes,Morning,60,No,Imbalanced,3,Yes,Be Flexible
+7/5/2019,Manju,Male,15-18,3,Good,2-3,Busy,Walking,Yes,Evening,60,Yes,Cravings,3,No,Being Fit
+7/5/2019,S Varsha ,Female,19-25,5,Good,1-2,Inconsistently,Jogging,Yes,Morning,120,No,Cravings,4,No,Relieve Stress
+7/5/2019,Khamaleswar C U,Male,15-18,4,Average,3-4,Exhausting,Weightlifting,Yes,Evening,60,Yes,Cravings,3,No,Weightloss
+7/5/2019,Nehaa Pradeep,Male,15-18,4,Very good,3-4,Busy,Swimming,Yes,Morning,30,No,Busy,4,No,Being Fit
+7/5/2019,Jaysharan,Female,19-25,4,Good,5-6,Exhausting,Jogging,Yes,Morning,30,No,Imbalanced,3,Yes,Being Fit
+7/5/2019,Sandhya,Female,19-25,3,Unfit,1-2,Unmotivated,Zumba,Yes,Evening,60,No,Cravings,2,No,Weightloss
+7/5/2019,Aishwarya Divaker,Female,19-25,5,Very good,5-6,Busy,Lifting weights,Yes,Morning,120,Yes,Costly,3,Yes,Relieve Stress
+7/5/2019,Dwaragesh,Female,15-18,3,Average,1-2,Exhausting,Jogging,Yes,Morning,30,Yes,Busy,3,Yes,Weightloss
+7/5/2019,Prarthana,Female,19-25,2,Average,Everyday,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/5/2019,Kumaran,Male,15-18,5,Good,5-6,Inconsistently,Yoga,Yes,Evening,120,No,Busy,4,No,Being Fit
+7/5/2019,Hemalikaa,Female,19-25,5,Good,5-6,Busy,Weightlifting,Yes,Morning,120,No,Cravings,3,Yes,Weightloss
+7/5/2019,Saagarika,Male,19-25,5,Very good,3-4,Busy,Weightlifting,Yes,Evening,60,No,Cravings,4,Yes,Weightloss
+7/5/2019,Vijayalakshmi ,Female,19-25,3,Good,1-2,Unmotivated,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Relieve Stress
+7/5/2019,Rahul,Female,15-18,4,Good,3-4,Inconsistently,Jogging,Yes,Evening,60,No,Cravings,2,No,Weightloss
+7/5/2019,H SANTHOSH,Male,15-18,5,Good,Everyday,Busy,Weightlifting,Yes,Evening,120,Yes,Busy,4,Yes,Muscle Building
+7/5/2019,Abhimanyu Gulia,Female,15-18,2,Unfit,Never,Exhausting,None,No,Evening,0,No,Cravings,3,Yes,Being Fit
+7/5/2019,Sathya,Male,19-25,5,Perfect,Everyday,Injured,Jogging,Yes,Evening,180,Yes,None,5,Yes,Being Fit
+7/5/2019,Sushwanth ,Female,19-25,4,Good,Everyday,Injured,Weightlifting,Yes,Evening,60,Yes,None,3,Yes,Being Fit
+7/5/2019,Sindhu,Female,19-25,4,Good,1-2,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/5/2019,Sudhansu,Female,40+,4,Good,1-2,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/5/2019,Prady,Female,19-25,4,Average,3-4,Unmotivated,Weightlifting,Yes,Morning,60,No,Imbalanced,3,Yes,Being Fit
+7/5/2019,Ankit Maini,Male,19-25,2,Average,1-2,Exhausting,Swimming,Yes,Morning,30,No,Cravings,4,Yes,Being Fit
+7/5/2019,Haniya,Male,15-18,5,Average,3-4,Injured,Walking,Yes,Evening,120,No,Cravings,3,Yes,Being Fit
+7/5/2019,Shashank Kumar ,Male,19-25,3,Average,Never,Exhausting,None,No,Morning,0,Yes,None,4,No,Being Fit
+7/5/2019,Meera,Male,19-25,5,Average,1-2,Injured,Jogging,Yes,Morning,30,No,Busy,3,No,Weightloss
+7/5/2019,Neil,Female,19-25,5,Very good,Everyday,Busy,Weightlifting,Yes,Evening,120,No,Cravings,3,No,Weightloss
+7/5/2019,Chaitana,Male,15-18,5,Average,3-4,Busy,Weightlifting,Yes,Evening,60,Yes,Imbalanced,4,No,Relieve Stress
+7/5/2019,N. Umamaheswari,Male,19-25,3,Good,Everyday,Exhausting,Weightlifting,Yes,Morning,120,No,Cravings,3,No,Being Fit
+7/5/2019,Rijul Dhingra,Male,19-25,4,Good,2-3,Unmotivated,Walking,Yes,Morning,60,No,Cravings,3,No,Being Fit
+7/5/2019,Nithya,Male,19-25,4,Good,5-6,Inconsistently,Walking,Yes,Evening,60,No,Cravings,5,Yes,Being Fit
+7/5/2019,Sowndarya,Female,15-18,3,Average,5-6,Busy,Jogging,Yes,Evening,30,No,Imbalanced,4,No,Being Fit
+7/5/2019,Soundharya.,Female,19-25,4,Good,2-3,Exhausting,Yoga,Yes,Evening,30,Yes,None,4,No,Being Fit
+7/5/2019,Sudarshan S,Male,19-25,4,Good,Everyday,Busy,Weightlifting,Yes,Evening,120,No,Imbalanced,3,Yes,Weightloss
+7/5/2019,Depika,Female,19-25,2,Good,3-4,Exhausting,Yoga,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/5/2019,Ajay MP,Male,19-25,5,Average,2-3,Unmotivated,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Muscle Building
+7/5/2019,Nandakumar,Female,30-40,4,Average,2-3,Busy,Jogging,Yes,Morning,30,No,Cravings,2,No,Weightloss
+7/5/2019,Akhil Pisharody,Female,19-25,5,Unfit,3-4,Exhausting,Yoga,Yes,Morning,30,No,Busy,3,No,Relieve Stress
+7/5/2019,Gayathri,Male,19-25,4,Good,5-6,Busy,Swimming,Yes,Evening,120,No,Cravings,5,No,Being Fit
+7/5/2019,AJJ,Female,19-25,3,Good,Never,Busy,Jogging,No,Evening,0,No,Busy,2,No,Relieve Stress
+7/5/2019,Sayooj K Karun,Female,15-18,3,Average,Never,Reluctant,None,No,Morning,0,No,Cravings,3,Yes,Weightloss
+7/5/2019,Swarna Yemparala ,Female,15-18,4,Good,1-2,Injured,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/5/2019,Jagadeesh V,Female,19-25,3,Unfit,Never,Busy,None,No,Morning,0,No,Busy,1,No,Being Fit
+7/5/2019,Monisha ,Male,19-25,4,Good,3-4,Busy,Jogging,Yes,Morning,30,No,Cravings,3,Yes,Being Fit
+7/5/2019,ARPUTHA -NY KING,Female,30-40,3,Good,1-2,Busy,Jogging,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/5/2019,Minu Philip,Male,40+,4,Average,2-3,Busy,Jogging,Yes,Morning,30,No,Costly,3,No,Relieve Stress
+7/5/2019,Ammu,Male,19-25,5,Average,2-3,Reluctant,Yoga,Yes,Morning,60,No,Cravings,4,No,Being Fit
+7/5/2019,Thivagar,Male,26-30,2,Average,Never,Reluctant,None,No,Evening,0,No,Imbalanced,5,Yes,Being Fit
+7/5/2019,Suruthi AP,Female,19-25,3,Average,1-2,Unmotivated,Jogging,Yes,Morning,0,No,Cravings,3,No,Weightloss
+7/5/2019,Kiran raj,Male,19-25,4,Good,3-4,Busy,Weightlifting,Yes,Morning,30,No,Cravings,4,Yes,Being Fit
+7/5/2019,Gokul ,Male,19-25,5,Average,Never,Busy,Jogging,No,Morning,0,No,Busy,3,No,Being Fit
+7/5/2019,Reshma Sara Alexander ,Male,15-18,3,Good,Never,Busy,None,No,Morning,0,Yes,None,4,No,Muscle Building
+7/5/2019,JITHU E V,Female,30-40,4,Average,3-4,Busy,Weightlifting,Yes,Morning,60,No,Costly,3,No,Weightloss
+7/5/2019,Sreelakshmy ,Male,19-25,4,Good,5-6,Inconsistently,Jogging,Yes,Morning,60,No,Cravings,4,Yes,Be Flexible
+7/5/2019,Anitha Harikrishnan,Female,19-25,3,Good,2-3,Busy,Jogging,Yes,Morning,0,No,Busy,3,No,Relieve Stress
+7/5/2019,Syed,Male,19-25,3,Good,1-2,Busy,Weightlifting,Yes,Evening,120,No,Busy,3,No,Being Fit
+7/5/2019,Femi George,Female,26-30,3,Good,3-4,Busy,Jogging,Yes,Evening,60,Yes,None,5,No,Weightloss
+7/5/2019,Vijay bhupathi,Female,19-25,5,Unfit,Never,Busy,None,Yes,Morning,0,No,Busy,2,No,Being Fit
+7/5/2019,Krishna Suresh ,Male,19-25,3,Good,1-2,Unmotivated,Jogging,Yes,Evening,60,No,Cravings,4,No,Relieve Stress
+7/5/2019,Lisha,Female,19-25,5,Average,1-2,Laziness,Swimming,Yes,Morning,120,No,Cravings,4,No,Relieve Stress
+7/5/2019,Pavishna ,Male,19-25,5,Good,1-2,Busy,Weightlifting,Yes,Morning,30,No,Costly,4,Yes,Relieve Stress
+7/5/2019,Siddarth,Male,15-18,5,Good,Everyday,Busy,Weightlifting,Yes,Evening,120,Yes,Cravings,5,Yes,Muscle Building
+7/5/2019,Kausallya. V,Male,19-25,5,Good,Everyday,Inconsistently,Weightlifting,Yes,Morning,120,No,Cravings,3,No,Weightloss
+7/5/2019,Sowmini P P,Female,19-25,4,Good,2-3,Exhausting,Jogging,Yes,Morning,30,No,Cravings,4,No,Be Flexible
+7/5/2019,Chithiran,Male,19-25,3,Unfit,Never,Unmotivated,Jogging,No,Morning,0,No,Imbalanced,2,No,Being Fit
+7/5/2019,Allwin,Female,40+,1,Good,Never,Reluctant,None,No,Morning,0,Yes,None,3,No,Being Fit
+7/5/2019,Tej,Male,30-40,3,Good,1-2,Busy,Jogging,Yes,Morning,60,No,Busy,3,No,Being Fit
+7/5/2019,Haripriya,Female,19-25,4,Good,Never,Busy,None,No,Evening,0,Yes,None,3,No,Being Fit
+7/5/2019,Meril Jose,Male,19-25,3,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Imbalanced,3,No,Weightloss
+7/5/2019,Rahul ,Female,19-25,4,Good,Everyday,Busy,Walking,Yes,Evening,60,No,Busy,3,No,Relieve Stress
+7/5/2019,Preethi T,Male,19-25,4,Average,1-2,Injured,Weightlifting,Yes,Morning,60,No,Imbalanced,3,No,Relieve Stress
+7/5/2019,Lavanyaa,Female,19-25,4,Good,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Be Flexible
+7/5/2019,GOBINATH,Male,19-25,4,Good,5-6,Inconsistently,Zumba,Yes,Evening,120,No,Cravings,4,No,Weightloss
+7/5/2019,Ayas,Female,19-25,4,Good,1-2,Unmotivated,Jogging,Yes,Evening,30,Yes,None,4,Yes,Being Fit
+7/5/2019,A ANKIT Sai,Male,19-25,5,Good,Everyday,Busy,Weightlifting,Yes,Evening,120,No,Cravings,4,Yes,Being Fit
+7/5/2019,gokulpriya,Male,19-25,3,Good,1-2,Busy,None,Yes,Morning,60,Yes,Busy,3,No,Muscle Building
+7/5/2019,Inbaraj,Female,40+,5,Good,2-3,Busy,Yoga,Yes,Evening,30,No,Imbalanced,4,No,Being Fit
+7/5/2019,Jenifer,Female,19-25,3,Average,1-2,Busy,Jogging,Yes,Evening,30,No,Costly,3,No,Relieve Stress
+7/5/2019,Fat-ooo,Male,19-25,4,Good,5-6,Inconsistently,Jogging,Yes,Morning,60,No,Costly,3,Yes,Being Fit
+7/5/2019,Dhanapal.P,Male,19-25,5,Average,Never,Busy,None,Yes,Morning,120,No,Cravings,3,Yes,Being Fit
+7/5/2019,Subaharini,Male,19-25,4,Good,2-3,Injured,Jogging,Yes,Evening,60,No,Cravings,3,No,Muscle Building
+7/5/2019,Anirudh,Female,19-25,3,Unfit,Never,Exhausting,Weightlifting,Yes,Evening,30,No,Busy,3,No,Being Fit
+7/5/2019,Keertana,Male,19-25,5,Good,Everyday,Inconsistently,Jogging,Yes,Morning,30,Yes,Cravings,3,No,Being Fit
+7/5/2019,Savitha Sathish,Male,15-18,4,Average,Never,Busy,None,No,Evening,0,No,Busy,3,Yes,Relieve Stress
+7/5/2019,Hinduja,Female,19-25,2,Good,Never,Reluctant,None,No,Morning,30,No,Cravings,3,No,Being Fit
+7/5/2019,Abhishek Santhanam ,Female,19-25,4,Average,2-3,Exhausting,Jogging,Yes,Evening,30,No,Imbalanced,4,No,Being Fit
+7/5/2019,Gayathri.M,Male,19-25,3,Good,Never,Busy,None,Yes,Evening,60,No,None,5,No,Being Fit
+7/5/2019,Sathya ,Male,19-25,5,Perfect,3-4,Inconsistently,Weightlifting,Yes,Evening,120,Yes,None,4,No,Muscle Building
+7/5/2019,Nivetha R.,Male,19-25,5,Very good,Everyday,Inconsistently,Walking,Yes,Evening,30,No,Busy,3,Yes,Being Fit
+7/5/2019,Bala,Female,19-25,5,Unfit,Never,Exhausting,None,No,Morning,0,No,Cravings,1,No,Relieve Stress
+7/5/2019,MP,Male,26-30,4,Unfit,5-6,Exhausting,Weightlifting,Yes,Evening,60,Yes,None,2,Yes,Weightloss
+7/5/2019,Dominic,Female,19-25,5,Unfit,Never,Exhausting,Weightlifting,No,Morning,0,No,Cravings,2,No,Being Fit
+7/5/2019,Sundar,Male,19-25,4,Unfit,Never,Unmotivated,Weightlifting,Yes,Morning,120,No,Costly,2,No,Be Flexible
+7/5/2019,Ananya Prakash,Male,15-18,4,Average,5-6,Inconsistently,Swimming,Yes,Morning,180,No,Busy,3,Yes,Weightloss
+7/5/2019,Ratchaka,Male,15-18,5,Good,Never,Busy,Jogging,Yes,Morning,30,No,None,5,Yes,Weightloss
+7/5/2019,Gautham ,Female,19-25,3,Very good,1-2,Reluctant,Jogging,Yes,Morning,30,Yes,Costly,3,No,Being Fit
+7/5/2019,Bhargavi kumar,Male,15-18,5,Unfit,Never,Busy,Weightlifting,Yes,Evening,120,No,Costly,3,No,Being Fit
+7/5/2019,Sandeep Haridas,Female,15-18,3,Average,1-2,Busy,Jogging,Yes,Morning,60,No,Imbalanced,4,No,Relieve Stress
+7/5/2019,George Cherian,Male,15-18,4,Average,Never,Exhausting,Swimming,Yes,Morning,60,Yes,None,3,No,Being Fit
+7/5/2019,Dhikshitha ,Female,30-40,4,Good,1-2,Busy,Jogging,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/5/2019,Hrutish,Female,19-25,5,Good,1-2,Busy,Jogging,Yes,Morning,60,Yes,None,5,No,Being Fit
+7/5/2019,meenakshi,Female,19-25,2,Average,Never,Reluctant,None,No,Morning,0,Yes,None,4,No,Being Fit
+7/5/2019,Priya,Male,15-18,5,Very good,5-6,Inconsistently,Walking,Yes,Evening,60,No,Cravings,3,Yes,Muscle Building
+7/5/2019,Prajeet,Female,15-18,3,Good,Never,Unmotivated,Jogging,Yes,Morning,0,No,Cravings,3,Yes,Muscle Building
+7/5/2019,krissh,Male,15-18,4,Good,2-3,Exhausting,Weightlifting,Yes,Evening,120,No,Cravings,3,Yes,Muscle Building
+7/5/2019,Sangeetha V D,Female,19-25,3,Average,Never,Unmotivated,Yoga,Yes,Morning,0,No,Cravings,3,No,Being Fit
+7/5/2019,Janani R,Female,15-18,3,Average,Never,Busy,Zumba,Yes,Evening,0,Yes,None,3,Yes,Being Fit
+7/5/2019,Sweta Bharadwaj ,Male,40+,3,Good,2-3,Busy,Walking,Yes,Evening,60,Yes,Cravings,3,No,Being Fit
+7/5/2019,Ishwarya,Male,40+,4,Average,2-3,Exhausting,Jogging,Yes,Morning,30,Yes,Busy,3,No,Being Fit
+7/5/2019,Seema,Male,40+,2,Average,Never,Reluctant,None,No,Evening,0,Yes,None,3,Yes,Weightloss
+7/5/2019,Geetha ,Male,15-18,3,Average,2-3,Injured,Swimming,Yes,Evening,30,Yes,None,3,No,Weightloss
+7/5/2019,Sowmiya.K,Female,26-30,3,Average,1-2,Exhausting,Yoga,Yes,Evening,30,No,Cravings,3,Yes,Be Flexible
+7/5/2019,Venkataraman,Female,19-25,5,Average,1-2,Exhausting,Zumba,Yes,Evening,60,No,Cravings,3,No,Being Fit
+7/5/2019,Prabhalya,Male,19-25,4,Good,2-3,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/5/2019,Arti,Female,30-40,4,Good,1-2,Busy,Weightlifting,Yes,Evening,60,No,Cravings,4,Yes,Being Fit
+7/5/2019,Srilakshmi ,Male,40+,4,Average,1-2,Busy,Weightlifting,Yes,Morning,60,No,Cravings,4,Yes,Weightloss
+7/5/2019,VISHALI.V,Male,15-18,5,Good,3-4,Inconsistently,Yoga,Yes,Evening,60,Yes,None,4,Yes,Being Fit
+7/5/2019,Grace Duraisamy ,Female,15-18,5,Good,1-2,Busy,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/5/2019,Amrita,Male,15-18,5,Good,5-6,Busy,Jogging,Yes,Morning,60,No,Cravings,4,Yes,Being Fit
+7/5/2019,Dharani ,Female,15-18,4,Average,1-2,Busy,Jogging,Yes,Morning,30,No,Cravings,3,No,Weightloss
+7/5/2019,Srutanjay,Female,15-18,5,Very good,Everyday,Exhausting,Yoga,Yes,Morning,30,Yes,Busy,4,Yes,Being Fit
+7/5/2019,Amruta,Male,15-18,4,Good,2-3,Busy,Jogging,Yes,Evening,60,No,Cravings,3,No,Be Flexible
+7/5/2019,Sunil Manikandan P,Male,15-18,5,Average,5-6,Busy,Jogging,Yes,Morning,30,No,Cravings,4,Yes,Weightloss
+7/5/2019,Sonya,Female,19-25,5,Good,Everyday,Unmotivated,Weightlifting,Yes,Evening,60,No,Cravings,3,Yes,Weightloss
+7/5/2019,Abimanyu ,Female,15-18,3,Good,1-2,Busy,Weightlifting,Yes,Evening,60,No,Imbalanced,3,No,Weightloss
+7/5/2019,Aswini,Female,26-30,3,Good,Never,Reluctant,None,No,Morning,0,Yes,None,4,No,Being Fit
+7/5/2019,Rehman khan ,Female,40+,4,Good,2-3,Busy,Weightlifting,Yes,Morning,60,No,Busy,3,No,Being Fit
+7/5/2019,Jagadish kumar,Female,40+,5,Average,3-4,Unmotivated,Jogging,Yes,Evening,30,No,None,4,Yes,Being Fit
+7/5/2019,Chockalingam.K,Female,15-18,5,Good,5-6,Busy,Weightlifting,Yes,Morning,60,No,None,4,No,Being Fit
+7/5/2019,Renuka Devi ,Female,40+,5,Very good,Everyday,Inconsistently,Yoga,Yes,Morning,60,No,None,4,No,Weightloss
+7/5/2019,Ashwini M,Male,15-18,5,Good,2-3,Busy,Weightlifting,Yes,Afternoon,120,No,Imbalanced,3,No,Muscle Building
+7/5/2019,Ashraya,Female,40+,3,Average,1-2,Exhausting,Jogging,Yes,Evening,30,No,Cravings,2,No,Relieve Stress
+7/5/2019,Rupali,Female,40+,3,Average,1-2,Unmotivated,Jogging,Yes,Evening,30,No,Cravings,3,Yes,Being Fit
+7/5/2019,Shreeja,Male,15-18,4,Average,2-3,Busy,Jogging,Yes,Morning,30,Yes,None,3,No,Relieve Stress
+7/5/2019,Rasika. T,Female,40+,5,Good,3-4,Exhausting,Jogging,Yes,Morning,60,No,Cravings,4,Yes,Being Fit
+7/5/2019,Alwarsamy,Female,15-18,5,Perfect,3-4,Inconsistently,Jogging,Yes,Evening,30,Yes,None,5,No,Being Fit
+7/5/2019,Suleka Aravind Kumar,Female,40+,4,Very good,2-3,Exhausting,Zumba,Yes,Evening,60,No,Cravings,3,Yes,Be Flexible
+7/5/2019,Alan,Female,19-25,4,Good,1-2,Busy,Jogging,Yes,Morning,30,Yes,None,3,Yes,Relieve Stress
+7/5/2019,Kavinila Annadurai,Female,40+,5,Very good,3-4,Exhausting,Yoga,Yes,Evening,30,Yes,None,4,Yes,Being Fit
+7/6/2019,R SANJAYRAM,Male,19-25,5,Good,Never,Busy,None,No,Morning,0,No,Cravings,4,No,Weightloss
+7/6/2019,M .Balan,Female,19-25,3,Unfit,Never,Exhausting,None,No,Evening,0,No,Cravings,1,No,Being Fit
+7/6/2019,Shivani,Male,19-25,5,Unfit,2-3,Exhausting,Weightlifting,Yes,Morning,30,No,Busy,2,No,Relieve Stress
+7/6/2019,Skumar,Male,15-18,5,Unfit,2-3,Exhausting,Weightlifting,Yes,Morning,30,No,Busy,2,No,Relieve Stress
+7/6/2019,Prethika,Female,30-40,3,Average,1-2,Exhausting,Jogging,Yes,Morning,30,No,Cravings,3,No,Being Fit
+7/6/2019,Ambaa,Male,40+,5,Average,3-4,Busy,Weightlifting,Yes,Morning,30,No,Busy,3,No,Weightloss
+7/6/2019,Nikita,Male,19-25,3,Good,3-4,Inconsistently,Jogging,Yes,Morning,60,No,None,4,No,Be Flexible
+7/6/2019,Kavin Nagarathinam,Male,19-25,3,Average,Never,Unmotivated,None,No,Morning,0,No,Cravings,2,No,Relieve Stress
+7/6/2019,Ananth eswar,Female,19-25,5,Average,Never,Exhausting,Jogging,Yes,Morning,30,No,Costly,3,No,Being Fit
+7/6/2019,Vasumathy,Female,15-18,3,Average,1-2,Busy,Jogging,Yes,Evening,30,No,Busy,3,No,Being Fit
+7/6/2019,Sridhar,Female,30-40,5,Very good,5-6,Injured,Weightlifting,Yes,Morning,120,Yes,Cravings,4,Yes,Weightloss
+7/6/2019,Anjana Anand ,Female,26-30,2,Average,1-2,Busy,Jogging,Yes,Evening,30,No,Cravings,2,Yes,Being Fit
+7/6/2019,Sapna,Female,19-25,3,Average,1-2,Exhausting,Yoga,Yes,Morning,120,No,Imbalanced,3,Yes,Weightloss
+7/6/2019,M.C.B,Female,40+,5,Good,1-2,Inconsistently,Yoga,Yes,Morning,60,Yes,Imbalanced,5,No,Weightloss
+7/6/2019,Arshad,Male,30-40,3,Good,Never,Busy,None,No,Morning,0,No,Cravings,3,No,Being Fit
+7/6/2019,N. Rajeswari,Female,19-25,5,Good,3-4,Inconsistently,Yoga,Yes,Morning,30,No,Cravings,3,No,Muscle Building
+7/6/2019,Rajeshwari,Female,40+,4,Average,1-2,Exhausting,Weightlifting,Yes,Morning,30,No,Cravings,3,Yes,Being Fit
+7/6/2019,Roshni,Female,19-25,3,Average,Everyday,Exhausting,Yoga,Yes,Morning,30,Yes,Cravings,3,No,Relieve Stress
+7/6/2019,Venugopalan,Female,19-25,4,Average,2-3,Exhausting,Weightlifting,Yes,Evening,30,No,Cravings,4,Yes,Being Fit
+7/6/2019,Preethi,Male,19-25,4,Good,5-6,Unmotivated,Yoga,Yes,Morning,30,No,Imbalanced,3,Yes,Being Fit
+7/6/2019,R.Krish Srinivas,Female,40+,5,Average,1-2,Laziness,Swimming,Yes,Morning,120,No,Cravings,4,No,Relieve Stress
+7/6/2019,Sandhiya K,Male,40+,5,Good,Everyday,Inconsistently,Jogging,Yes,Morning,60,No,None,5,No,Being Fit
+7/6/2019,Ramakrishna.V,Male,15-18,5,Good,Everyday,Inconsistently,Jogging,Yes,Morning,60,No,None,5,No,Being Fit
+7/6/2019,Varna sureshbabu,Female,15-18,3,Good,2-3,Busy,Swimming,Yes,Evening,120,Yes,None,3,No,Being Fit
+7/6/2019,Sharon,Male,15-18,4,Very good,3-4,Inconsistently,Walking,Yes,Morning,120,No,Cravings,4,Yes,Being Fit
+7/6/2019,Sandeep  A K,Female,40+,2,Average,Never,Busy,None,No,Morning,30,Yes,None,4,No,Being Fit
+7/6/2019,Preetha Shelvam,Female,15-18,3,Average,1-2,Busy,None,No,Morning,30,Yes,None,4,No,Being Fit
+7/6/2019,Dhikshitha,Female,15-18,4,Good,3-4,Unmotivated,Zumba,Yes,Evening,60,No,Cravings,3,No,Weightloss
+7/6/2019,Rathna Subramanian,Female,15-18,4,Good,3-4,Busy,Weightlifting,Yes,Evening,30,No,Cravings,4,No,Being Fit
+7/6/2019,S.Prakash,Female,19-25,5,Perfect,Everyday,Unmotivated,Swimming,Yes,Evening,180,Yes,None,5,No,Relieve Stress
+7/6/2019,Shruthi,Male,15-18,3,Good,Never,Exhausting,Swimming,Yes,Morning,0,Yes,Busy,4,Yes,Muscle Building
+7/6/2019,Dharani Priyanka,Male,40+,4,Good,2-3,Busy,Jogging,Yes,Evening,60,No,Cravings,4,Yes,Being Fit
+7/6/2019,Preethi ,Female,40+,5,Good,3-4,Inconsistently,Jogging,Yes,Morning,30,No,Busy,3,Yes,Be Flexible
+7/6/2019,Yashika Y,Male,15-18,5,Good,5-6,Reluctant,Jogging,Yes,Morning,60,No,Cravings,3,Yes,Relieve Stress
+7/6/2019,Sanjay V,Female,19-25,4,Good,5-6,Busy,Walking,Yes,Evening,60,Yes,Cravings,4,Yes,Relieve Stress
+7/6/2019,Madhusudan Rao,Female,19-25,4,Average,2-3,Busy,Jogging,Yes,Morning,30,No,Cravings,4,Yes,Be Flexible
+7/6/2019,Yalu ,Female,40+,4,Average,2-3,Busy,Jogging,Yes,Morning,30,No,Cravings,4,Yes,Be Flexible
+7/6/2019,Chitra N R,Male,15-18,5,Average,3-4,Inconsistently,Jogging,Yes,Morning,60,Yes,None,3,No,Being Fit
+7/6/2019,K V Prakash ,Female,19-25,4,Good,2-3,Busy,Zumba,Yes,Morning,30,No,Busy,3,No,Be Flexible
+7/6/2019,Abinesh,Male,40+,4,Unfit,Never,Busy,None,No,Morning,0,No,Cravings,1,No,Being Fit
+7/6/2019,Kousi,Female,40+,5,Good,3-4,Unmotivated,Yoga,Yes,Morning,30,Yes,None,3,No,Weightloss
+7/6/2019,Dhanuja,Female,15-18,4,Good,Everyday,Injured,Zumba,Yes,Morning,30,Yes,None,4,Yes,Be Flexible
+7/6/2019,Abhinaya V,Female,40+,5,Good,1-2,Exhausting,Yoga,Yes,Evening,60,No,Cravings,3,Yes,Being Fit
+7/6/2019,Vishnu S,Male,19-25,4,Good,Everyday,Inconsistently,Jogging,Yes,Morning,30,No,Cravings,3,No,Be Flexible
+7/6/2019,Mary Presley,Female,19-25,4,Good,Never,Unmotivated,None,Yes,Morning,0,No,Cravings,3,No,Being Fit
